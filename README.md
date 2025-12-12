@@ -39,5 +39,5 @@ No JavaScript — Pure frontend magic
 - Date: Dec , 2025
 
 ## 📸 Preview
-![Project Screenshot]()
+![Project Screenshot](https://github.com/prynix-dev/Dice/blob/main/Screenshot.png?raw=true)
 
